@@ -57,4 +57,3 @@ All data is publicly available and downloaded directly in the notebooks:
 - [landmarq-methodology](https://github.com/beatriz-mendoza/landmarq-methodology) — scoring model documentation
 - [LANDMARQ Platform](https://landmarq.io/platform-overview)
 
-- 
